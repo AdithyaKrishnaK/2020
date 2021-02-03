@@ -31585,6 +31585,11 @@ video {
   color: rgba(30, 64, 175, var(--tw-text-opacity));
 }
 
+.cardlink:hover {
+  --tw-text-opacity: 1;
+  color: rgba(30, 58, 138, var(--tw-text-opacity));
+}
+
 .cardcontent{
   display: flex;
   flex-direction: column;
